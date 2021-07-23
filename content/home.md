@@ -57,6 +57,7 @@ Join fellow NFT enthusiasts and build with our creatives, developers, educators,
 
 [Let's Collab](https://nft-dao.org/join-us)
 
+***
 
 ### Section 4: Current Initiatives
 
