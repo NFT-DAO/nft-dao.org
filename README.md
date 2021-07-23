@@ -5,9 +5,11 @@ The pupose of this repo is to allow multiple members of NFT-DAO to build and mai
 ## State of nft-dao.org
 
 **Hosting**
+
 Currently hosted by squarespace
 
 **Domain**
+
 Missing information
 
 # Content Overview
