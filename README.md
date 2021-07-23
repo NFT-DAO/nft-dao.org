@@ -14,14 +14,23 @@ Missing information
 
 # Content Overview
 
+
+## Pages
+
 - https://nft-dao.org/
 - https://nft-dao.org/our-mission
 - https://nft-dao.org/join-us
 - https://nft-dao.org/proposals
 
-TODO:
-For each one of the pages above a markdown file should be made in this repo containing that page's content.
-This will allow multiple participants and the public to propose changes and raise issues.
+## Content Sections managed on git
+click the links below to go to the markdown files relative to each section in the list.
+
+- [Navbar](/content/navbar.md)
+- [Home](/content/home.md)
+- [Our Mission]
+- [Join Us]
+- [Proposals]
+- [Footer]
 
 ## Known issues
  - The "Upcoming NFT Drops" button on the navbar at the top right doesn't work
