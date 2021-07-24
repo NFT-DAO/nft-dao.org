@@ -48,3 +48,5 @@ Create an issue for each of the items listed above
 ## Author's notes
 
 We should make this repo public so the public may use the issues feature to send proposals of changes and improvements
+
+This repo is integrated with NFT-DAO's slack channel #nft-dao-dot-org, notifications are sent to the channel for issues, pulls, commits, releases and deployments. For more information (https://github.com/integrations/slack)
